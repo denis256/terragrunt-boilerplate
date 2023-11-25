@@ -1,2 +1,2 @@
-# terragrunt-boilerplate
+# terragrunt-boilerplate (deprecated)
 Terragrunt boilerplate
